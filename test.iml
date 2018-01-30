@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../test/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../test/web" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../test/src/main/java" />
+          <root url="file://$MODULE_DIR$/../test/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/../test/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../test/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../test">
+      <sourceFolder url="file://$MODULE_DIR$/../test/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../test/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../test/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../test/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

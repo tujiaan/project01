@@ -7,23 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c520ae1-42f5-49d5-978a-ffc890a011c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/artifacts/test_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/firstProject.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/src/main/java/cn/tja/source/demon01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/src/test/java/cn/tja/test/Test01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/target/classes/cn/tja/source/demon01.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/firstProject/target/test-classes/cn/tja/test/Test01.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test/web/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/../test/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../test/out/" />
     <ignored path="$PROJECT_DIR$/../test/target/" />
@@ -49,7 +33,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="-33">
               <caret line="3" column="88" lean-forward="false" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
               <folding />
             </state>
@@ -80,6 +64,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tujiaan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../test" />
   </component>
   <component name="GradleLocalSettings">
@@ -456,12 +445,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517233733383</updated>
-      <workItem from="1517233735828" duration="3402000" />
+      <workItem from="1517233735828" duration="3562000" />
     </task>
+    <task id="LOCAL-00001" summary="这是一个测试的">
+      <created>1517292930395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517292930396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3402000" />
+    <option name="totallyTimeSpent" value="3562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -546,6 +543,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="这是一个测试的" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是一个测试的" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -588,7 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="-33">
           <caret line="3" column="88" lean-forward="false" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
           <folding />
         </state>
